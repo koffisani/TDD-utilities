@@ -1,5 +1,5 @@
 
-## Test coverage
+# Test coverage
 ### EMMA Coverage report
 
 EMMA is an open-source toolkit for measuring and reporting *Java code coverage*. 
